@@ -1,0 +1,12 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+mat-toolbar{
+    backdrop-filter: blur(.75rem);
+    background-color: hsla(0, 0%, 100%, .75);
+}
+.logo-holder>img{
+    width:6rem;
+}
+
